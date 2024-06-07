@@ -1,0 +1,1 @@
+# goit-qaa-ci-cd
